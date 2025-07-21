@@ -2,44 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://therationalpilgrim.org/intro_en/</loc>
+    <loc>https://therationalpilgrim.github.io/web/intro_en/</loc>
     <lastmod>2025-06-16T00:10:10+02:00</lastmod>
   </url><url>
-    <loc>https://therationalpilgrim.org/</loc>
+    <loc>https://therationalpilgrim.github.io/web/</loc>
     <lastmod>2025-06-27T00:22:15+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://therationalpilgrim.org/fr/"
+                href="https://therationalpilgrim.github.io/web/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://therationalpilgrim.org/"
+                href="https://therationalpilgrim.github.io/web/"
                 />
   </url><url>
-    <loc>https://therationalpilgrim.org/categories/</loc>
+    <loc>https://therationalpilgrim.github.io/web/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://therationalpilgrim.org/fr/categories/"
+                href="https://therationalpilgrim.github.io/web/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://therationalpilgrim.org/categories/"
+                href="https://therationalpilgrim.github.io/web/categories/"
                 />
   </url><url>
-    <loc>https://therationalpilgrim.org/tags/</loc>
+    <loc>https://therationalpilgrim.github.io/web/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://therationalpilgrim.org/fr/tags/"
+                href="https://therationalpilgrim.github.io/web/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://therationalpilgrim.org/tags/"
+                href="https://therationalpilgrim.github.io/web/tags/"
                 />
   </url>
 </urlset>
