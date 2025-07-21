@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The rational pilgrim on The Rational Pilgrim</title>
+    <link>https://therationalpilgrim.org/</link>
+    <description>Recent content in The rational pilgrim on The Rational Pilgrim</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 16 Jun 2025 00:10:10 +0200</lastBuildDate>
+    <atom:link href="https://therationalpilgrim.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1. Introduction</title>
+      <link>https://therationalpilgrim.org/intro_en/</link>
+      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://therationalpilgrim.org/intro_en/</guid>
+      <description>&lt;p&gt;For millennia, humanity has observed phenomena it did not understand and often interpreted them as signs or acts of the divine. However, over the centuries, science has advanced, providing explanations where once there were only mysteries and beliefs. For instance, during the Middle Ages, the Black Death was seen as a divine punishment. Diseases were interpreted as responses to sins or as tests of faith. Today, we know that microbes, viruses, and parasites are responsible for some of these illnesses. Others are linked to genetics. Medicine has made great strides in understanding their origins and developing treatments.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
