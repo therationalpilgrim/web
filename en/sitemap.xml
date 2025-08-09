@@ -2,44 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://therationalpilgrim.github.io/intro_en/</loc>
+    <loc>http://localhost:1313/intro_en/</loc>
     <lastmod>2025-06-16T00:10:10+02:00</lastmod>
   </url><url>
-    <loc>https://therationalpilgrim.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-06-27T00:22:15+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://therationalpilgrim.github.io/fr/"
+                href="http://localhost:1313/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://therationalpilgrim.github.io/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>https://therationalpilgrim.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://therationalpilgrim.github.io/fr/categories/"
+                href="http://localhost:1313/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://therationalpilgrim.github.io/categories/"
+                href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>https://therationalpilgrim.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://therationalpilgrim.github.io/fr/tags/"
+                href="http://localhost:1313/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://therationalpilgrim.github.io/tags/"
+                href="http://localhost:1313/tags/"
                 />
   </url>
 </urlset>

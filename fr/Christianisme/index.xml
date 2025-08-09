@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>7. La voie du christianisme on Le pèlerin rationnel</title>
-    <link>https://therationalpilgrim.github.io/fr/Christianisme/</link>
-    <description>Recent content in 7. La voie du christianisme on Le pèlerin rationnel</description>
+    <title>8. La voie du christianisme on Le pèlerin rationnel</title>
+    <link>http://localhost:1313/fr/Christianisme/</link>
+    <description>Recent content in 8. La voie du christianisme on Le pèlerin rationnel</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://therationalpilgrim.github.io/fr/Christianisme/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/fr/Christianisme/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
