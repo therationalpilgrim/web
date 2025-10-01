@@ -4,147 +4,47 @@
   <url>
     <loc>https://therationalpilgrim.github.io/fr/intro/</loc>
     <lastmod>2025-08-20T08:52:05+02:00</lastmod>
-  </url><url>
-    <loc>https://therationalpilgrim.github.io/fr/Christianisme/section1/</loc>
-    <lastmod>2025-09-11T21:54:17+02:00</lastmod>
-  </url><url>
-    <loc>https://therationalpilgrim.github.io/fr/Christianisme/expiation/section1/</loc>
-    <lastmod>2025-09-21T23:19:58+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://therationalpilgrim.github.io/fr/method/</loc>
     <lastmod>2025-08-09T10:50:49+02:00</lastmod>
-  </url><url>
-    <loc>https://therationalpilgrim.github.io/fr/Christianisme/expiation/section2/</loc>
-    <lastmod>2025-09-23T23:19:20+02:00</lastmod>
-  </url><url>
-    <loc>https://therationalpilgrim.github.io/fr/Christianisme/section2/</loc>
-    <lastmod>2025-09-11T21:54:17+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://therationalpilgrim.github.io/fr/aff1/</loc>
     <lastmod>2025-08-23T00:03:14+02:00</lastmod>
-  </url><url>
-    <loc>https://therationalpilgrim.github.io/fr/Christianisme/expiation/section3/</loc>
-    <lastmod>2025-09-23T23:19:20+02:00</lastmod>
-  </url><url>
-    <loc>https://therationalpilgrim.github.io/fr/Christianisme/section3/</loc>
-    <lastmod>2025-09-11T21:54:17+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://therationalpilgrim.github.io/fr/aff2/</loc>
     <lastmod>2025-08-21T22:27:32+02:00</lastmod>
-  </url><url>
-    <loc>https://therationalpilgrim.github.io/fr/Christianisme/expiation/section4/</loc>
-    <lastmod>2025-09-23T23:19:20+02:00</lastmod>
-  </url><url>
-    <loc>https://therationalpilgrim.github.io/fr/Christianisme/section4/</loc>
-    <lastmod>2025-08-30T00:00:50+02:00</lastmod>
-  </url><url>
-    <loc>https://therationalpilgrim.github.io/fr/Christianisme/expiation/section5/</loc>
-    <lastmod>2025-09-26T22:04:18+02:00</lastmod>
-  </url><url>
-    <loc>https://therationalpilgrim.github.io/fr/Christianisme/section5/</loc>
-    <lastmod>2025-09-11T22:03:12+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://therationalpilgrim.github.io/fr/pluralite/</loc>
     <lastmod>2025-08-28T00:08:51+02:00</lastmod>
-  </url><url>
-    <loc>https://therationalpilgrim.github.io/fr/Christianisme/expiation/section6/</loc>
-    <lastmod>2025-09-23T23:19:20+02:00</lastmod>
-  </url><url>
-    <loc>https://therationalpilgrim.github.io/fr/Christianisme/section6/</loc>
-    <lastmod>2025-09-11T21:54:17+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://therationalpilgrim.github.io/fr/EMI/</loc>
     <lastmod>2025-08-21T22:27:32+02:00</lastmod>
-  </url><url>
-    <loc>https://therationalpilgrim.github.io/fr/Christianisme/section7/</loc>
-    <lastmod>2025-09-11T22:08:12+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://therationalpilgrim.github.io/fr/Christianisme/</loc>
     <lastmod>2025-09-25T23:26:29+02:00</lastmod>
-  </url><url>
-    <loc>https://therationalpilgrim.github.io/fr/Christianisme/section8/</loc>
-    <lastmod>2025-09-03T22:36:53+02:00</lastmod>
-  </url><url>
-    <loc>https://therationalpilgrim.github.io/fr/Christianisme/section9/</loc>
-    <lastmod>2025-09-03T22:36:53+02:00</lastmod>
-  </url><url>
-    <loc>https://therationalpilgrim.github.io/fr/Christianisme/section10/</loc>
-    <lastmod>2025-09-21T23:19:58+02:00</lastmod>
-  </url><url>
-    <loc>https://therationalpilgrim.github.io/fr/Christianisme/expiation/</loc>
-    <lastmod>2025-09-26T22:04:18+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://therationalpilgrim.github.io/fr/about/</loc>
     <lastmod>2025-08-09T10:50:49+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://therationalpilgrim.github.io/fr/contact/</loc>
     <lastmod>2025-08-09T10:50:49+02:00</lastmod>
-  </url><url>
-    <loc>https://therationalpilgrim.github.io/fr/</loc>
-    <lastmod>2025-08-09T10:50:49+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://therationalpilgrim.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://therationalpilgrim.github.io/fr/"
-                />
-  </url><url>
-    <loc>https://therationalpilgrim.github.io/fr/aff1/section1/</loc>
-    <lastmod>2025-08-28T00:08:51+02:00</lastmod>
-  </url><url>
-    <loc>https://therationalpilgrim.github.io/fr/aff1/section2/</loc>
-    <lastmod>2025-08-23T00:03:14+02:00</lastmod>
-  </url><url>
-    <loc>https://therationalpilgrim.github.io/fr/aff1/section3/</loc>
-    <lastmod>2025-08-09T10:50:49+02:00</lastmod>
-  </url><url>
-    <loc>https://therationalpilgrim.github.io/fr/aff1/section4/</loc>
-    <lastmod>2025-08-09T10:50:49+02:00</lastmod>
-  </url><url>
-    <loc>https://therationalpilgrim.github.io/fr/aff1/section5/</loc>
-    <lastmod>2025-08-28T00:08:51+02:00</lastmod>
-  </url><url>
-    <loc>https://therationalpilgrim.github.io/fr/EMI/section1/</loc>
-    <lastmod>2025-08-21T22:27:32+02:00</lastmod>
-  </url><url>
-    <loc>https://therationalpilgrim.github.io/fr/EMI/section2/</loc>
-    <lastmod>2025-08-23T00:03:14+02:00</lastmod>
-  </url><url>
-    <loc>https://therationalpilgrim.github.io/fr/EMI/section3/</loc>
-    <lastmod>2025-08-20T08:52:05+02:00</lastmod>
-  </url><url>
-    <loc>https://therationalpilgrim.github.io/fr/EMI/section4/</loc>
-    <lastmod>2025-08-20T08:52:05+02:00</lastmod>
-  </url><url>
-    <loc>https://therationalpilgrim.github.io/fr/EMI/section5/</loc>
-    <lastmod>2025-08-21T22:27:32+02:00</lastmod>
-  </url><url>
-    <loc>https://therationalpilgrim.github.io/fr/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://therationalpilgrim.github.io/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://therationalpilgrim.github.io/fr/categories/"
-                />
-  </url><url>
-    <loc>https://therationalpilgrim.github.io/fr/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://therationalpilgrim.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://therationalpilgrim.github.io/fr/tags/"
-                />
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
