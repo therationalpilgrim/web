@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://therationalpilgrim.github.io/web/sitemap.xml
